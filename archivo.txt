@@ -1,1 +1,2 @@
-Este es mi primer archivo de texto git
+Este es mi primer archivo de texto git.
+Segunda modificacion
